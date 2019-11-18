@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:50:21 +0800] "GET /toadd HTTP/1.1" 404 961 http-bio-8080-exec-1 50
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:17 +0800] "GET /serviceManagement.jsp HTTP/1.1" 200 1977 http-bio-8080-exec-3 155
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:17 +0800] "GET /layui/css/layui.css HTTP/1.1" 200 72911 http-bio-8080-exec-5 88
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:17 +0800] "GET /layui/layui.js HTTP/1.1" 200 6675 http-bio-8080-exec-4 236
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:18 +0800] "GET /layui/lay/modules/element.js HTTP/1.1" 200 7264 http-bio-8080-exec-7 26
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:18 +0800] "GET /layui/lay/modules/jquery.js HTTP/1.1" 200 97648 http-bio-8080-exec-8 46
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:18 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:21 +0800] "GET /servlet/create HTTP/1.1" 200 5359 http-bio-8080-exec-10 1125
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:21 +0800] "GET /layui/lay/modules/form.js HTTP/1.1" 200 9329 http-bio-8080-exec-10 106
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:21 +0800] "GET /layui/lay/modules/layer.js HTTP/1.1" 200 22041 http-bio-8080-exec-10 64
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:51:21 +0800] "GET /layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14425 http-bio-8080-exec-10 75
